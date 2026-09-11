@@ -50,8 +50,8 @@ currently_learning = ["System design", "Cloud deployment", "Applied AI"]
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mmbasu-8866&show_icons=true&hide_border=true&theme=default&rank_icon=github" height="165" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmbasu-8866&layout=compact&hide_border=true&theme=default" height="165" alt="Most used languages" />
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=mmbasu-8866&show_icons=true&hide_border=true&theme=default&rank_icon=github" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=mmbasu-8866&layout=compact&hide_border=true&theme=default" height="165" alt="Most used languages" />
 
 <br />
 
@@ -59,7 +59,7 @@ currently_learning = ["System design", "Cloud deployment", "Applied AI"]
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mmbasu-8866&bg_color=ffffff&color=2f80ed&line=00a6fb&point=2f80ed&area=true&hide_border=true" alt="Animated GitHub contribution graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mmbasu-8866&theme=default" alt="GitHub contribution summary" />
 
 </div>
 
