@@ -63,6 +63,18 @@ currently_learning = ["System design", "Cloud deployment", "Applied AI"]
 
 </div>
 
+## Contribution pulse
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mmbasu-8866/mmbasu-8866/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
+
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3600&pause=1200&color=667085&center=true&vCenter=true&width=620&lines=Designing+with+clarity;Shipping+with+discipline;Learning+in+public" alt="Animated engineering principles" />
+
+</div>
+
 ## Let's connect
 
 The best way to reach me is through [GitHub](https://github.com/mmbasu-8866). Add your portfolio, LinkedIn, email, or other professional links here when you are ready.
