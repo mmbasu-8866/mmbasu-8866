@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f80ed,100:00c6ff&height=180&section=header&text=mmbasu-8866&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Animated profile header" />
 
+<img src="https://raw.githubusercontent.com/mmbasu-8866/mmbasu-8866/main/assets/profile-character.svg" alt="Anime-inspired profile character introducing mmbasu-8866" />
+
 # mmbasu-8866
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=2F80ED&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+Builder;Full-Stack+Developer;Turning+ideas+into+useful+products" alt="Animated introduction" />
