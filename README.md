@@ -1,24 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f80ed,100:00c6ff&height=180&section=header&text=mmbasu-8866&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Animated profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:123b91,100:2f80ed&height=170&section=header&text=mmbasu-8866&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="mmbasu-8866 profile header" />
+
+## Software Engineer | AI Builder | Full-Stack Developer
+
+Building practical software with a focus on clear interfaces, useful automation, and reliable systems.
+
+[![Profile views](https://komarev.com/ghpvc/?username=mmbasu-8866&style=flat-square&color=2f80ed)](https://github.com/mmbasu-8866)
+[![Followers](https://img.shields.io/github/followers/mmbasu-8866?style=flat-square&color=181717)](https://github.com/mmbasu-8866?tab=followers)
+
+</div>
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/mmbasu-8866/mmbasu-8866/main/assets/profile-avatar.svg" width="92" alt="Click to meet the anime-inspired developer avatar" /></summary>
+<summary><img src="https://raw.githubusercontent.com/mmbasu-8866/mmbasu-8866/main/assets/profile-avatar.svg" width="72" alt="Open profile introduction" /> <strong>Open my profile note</strong></summary>
 
 <table>
 <tr>
-<td width="220" align="center">
-<img src="https://raw.githubusercontent.com/mmbasu-8866/mmbasu-8866/main/assets/profile-avatar.svg" width="180" alt="Anime-inspired developer avatar" />
+<td width="180" align="center">
+<img src="https://raw.githubusercontent.com/mmbasu-8866/mmbasu-8866/main/assets/profile-avatar.svg" width="150" alt="Anime-inspired developer avatar" />
 </td>
 <td>
 
-<strong>mmbasu-8866:</strong> Hey! I’m a software engineer who enjoys turning ideas into useful products.
+**Hello.** I enjoy turning early ideas into useful, well-structured products.
 
-<strong>What I build:</strong> Full-stack applications, AI-assisted tools, and practical systems for real users.
+**Focus:** Full-stack applications, AI-assisted tools, and practical systems.
 
-<strong>What I’m learning:</strong> System design, cloud deployment, and applied AI.
+**Currently learning:** System design, cloud deployment, and applied AI.
 
-<strong>Let’s build:</strong> Thoughtful products, student projects, and open-source tools.
+**Open to:** Thoughtful collaborations, student projects, and open-source work.
 
 </td>
 </tr>
@@ -26,49 +35,30 @@
 
 </details>
 
-# mmbasu-8866
+## Core focus
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=2F80ED&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+Builder;Full-Stack+Developer;Turning+ideas+into+useful+products" alt="Animated introduction" />
+| Area | What I care about |
+| --- | --- |
+| Product engineering | Turning ambiguous ideas into clear, usable software |
+| Full-stack development | Building complete experiences from interface to backend |
+| Applied AI | Using intelligent tools where they create real user value |
 
-Building practical software for education, agriculture, productivity, and intelligent systems.
-
-[![Profile views](https://komarev.com/ghpvc/?username=mmbasu-8866&style=for-the-badge&color=2f80ed)](https://github.com/mmbasu-8866)
-[![GitHub followers](https://img.shields.io/github/followers/mmbasu-8866?style=for-the-badge&color=181717)](https://github.com/mmbasu-8866?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/mmbasu-8866?style=for-the-badge&color=f2c94c)](https://github.com/mmbasu-8866?tab=repositories)
-
-</div>
-
-## About me
-
-- I build full-stack applications that solve concrete problems.
-- I enjoy turning early ideas into working products and clear user experiences.
-- I am currently exploring AI-assisted workflows, modern web development, and software engineering practices.
-- Open to collaborating on thoughtful products, student projects, and open-source tools.
-
-## Engineering identity
-
-```text
-focus = ["Full-stack development", "AI systems", "Product engineering"]
-languages = ["TypeScript", "JavaScript", "HTML", "CSS", "Python"]
-currently_learning = ["System design", "Cloud deployment", "Applied AI"]
-```
-
-## Technology stack
+## Technology
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,javascript,python,html,css,react,nextjs,nodejs,express,tailwind,git,github,firebase,mongodb&perline=7" alt="Technology stack" />
 </p>
 
-## Featured projects
+## Selected work
 
-| Project | What it is | Stack |
+| Project | Description | Language |
 | --- | --- | --- |
-| [Agrihub](https://github.com/mmbasu-8866/Agrihub) | A farmer-friendly web application | TypeScript |
-| [Darwin](https://github.com/mmbasu-8866/Darwin) | An intelligent product and experimentation space | TypeScript |
-| [AuraPrep](https://github.com/mmbasu-8866/AuraPrep) | A focused preparation and learning project | TypeScript |
-| [OpsPilot-AI](https://github.com/mmbasu-8866/OpsPilot-AI) | An AI-oriented operations project | TypeScript |
-| [Electionflow](https://github.com/mmbasu-8866/Electionflow) | A workflow-focused application | TypeScript |
-| [School Management](https://github.com/mmbasu-8866/school-management) | A school management web application | HTML |
+| [Agrihub](https://github.com/mmbasu-8866/Agrihub) | Farmer-friendly web application | TypeScript |
+| [Darwin](https://github.com/mmbasu-8866/Darwin) | Product engineering and experimentation project | TypeScript |
+| [AuraPrep](https://github.com/mmbasu-8866/AuraPrep) | Preparation and learning application | TypeScript |
+| [OpsPilot-AI](https://github.com/mmbasu-8866/OpsPilot-AI) | AI-oriented operations project | TypeScript |
+| [Electionflow](https://github.com/mmbasu-8866/Electionflow) | Workflow-focused application | TypeScript |
+| [School Management](https://github.com/mmbasu-8866/school-management) | School management web application | HTML |
 
 ## GitHub activity
 
@@ -79,34 +69,16 @@ currently_learning = ["System design", "Cloud deployment", "Applied AI"]
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=mmbasu-8866&hide_border=true&theme=default" alt="GitHub contribution streak" />
-
-<br />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mmbasu-8866&theme=default" alt="GitHub contribution summary" />
 
 </div>
 
-## Contribution pulse
+## Connect
+
+The best way to reach me is through [GitHub](https://github.com/mmbasu-8866). I am open to building useful software with thoughtful people.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mmbasu-8866/mmbasu-8866/gh-pages/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
-
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3600&pause=1200&color=667085&center=true&vCenter=true&width=620&lines=Designing+with+clarity;Shipping+with+discipline;Learning+in+public" alt="Animated engineering principles" />
-
-</div>
-
-## Let's connect
-
-The best way to reach me is through [GitHub](https://github.com/mmbasu-8866). Add your portfolio, LinkedIn, email, or other professional links here when you are ready.
-
-<div align="center">
-
-### Build useful things. Learn in public. Keep improving.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:2f80ed&height=110&section=footer&animation=fadeIn" alt="Animated profile footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f80ed,100:123b91&height=90&section=footer&animation=fadeIn" alt="Profile footer" />
 
 </div>
