@@ -1,8 +1,10 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f80ed,100:00c6ff&height=180&section=header&text=mmbasu-8866&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Animated profile header" />
+
 # mmbasu-8866
 
-### Software Engineer | AI Builder | Full-Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=2F80ED&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+Builder;Full-Stack+Developer;Turning+ideas+into+useful+products" alt="Animated introduction" />
 
 Building practical software for education, agriculture, productivity, and intelligent systems.
 
@@ -55,6 +57,10 @@ currently_learning = ["System design", "Cloud deployment", "Applied AI"]
 
 <img src="https://streak-stats.demolab.com?user=mmbasu-8866&hide_border=true&theme=default" alt="GitHub contribution streak" />
 
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mmbasu-8866&bg_color=ffffff&color=2f80ed&line=00a6fb&point=2f80ed&area=true&hide_border=true" alt="Animated GitHub contribution graph" />
+
 </div>
 
 ## Let's connect
@@ -64,5 +70,7 @@ The best way to reach me is through [GitHub](https://github.com/mmbasu-8866). Ad
 <div align="center">
 
 ### Build useful things. Learn in public. Keep improving.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:2f80ed&height=110&section=footer&animation=fadeIn" alt="Animated profile footer" />
 
 </div>
