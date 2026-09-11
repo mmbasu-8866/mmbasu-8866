@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" role="img" aria-labelledby="title desc">
+  <title id="title">Animated developer day in the life</title>
+  <desc id="desc">An original anime-inspired developer cycles through working, running, and sleeping.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eef7ff"/>
+      <stop offset="1" stop-color="#e2f7f3"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3478ee"/>
+      <stop offset="1" stop-color="#123b91"/>
+    </linearGradient>
+    <style>
+      .scene { animation: scene-cycle 9s ease-in-out infinite; }
+      .scene:nth-of-type(2) { animation-delay: 3s; }
+      .scene:nth-of-type(3) { animation-delay: 6s; }
+      .runner { animation: run-cycle 1s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: 50% 100%; }
+      .screen { animation: screen-pulse 1.4s ease-in-out infinite alternate; }
+      .zzz { animation: float-z 2.4s ease-in-out infinite; }
+      @keyframes scene-cycle { 0%, 28% { opacity: 1; } 34%, 94% { opacity: .42; } 100% { opacity: 1; } }
+      @keyframes run-cycle { from { transform: translateY(0) rotate(-2deg); } to { transform: translateY(-5px) rotate(2deg); } }
+      @keyframes screen-pulse { from { opacity: .55; } to { opacity: 1; } }
+      @keyframes float-z { from { opacity: .2; transform: translateY(8px); } to { opacity: 1; transform: translateY(-8px); } }
+    </style>
+  </defs>
+  <rect width="900" height="260" rx="24" fill="url(#sky)"/>
+  <g font-family="Verdana, sans-serif" text-anchor="middle">
+    <g class="scene">
+      <rect x="20" y="20" width="275" height="220" rx="18" fill="#fff" stroke="#2f80ed" stroke-width="3"/>
+      <text x="157" y="52" font-size="17" font-weight="700" fill="#123b91">WORKING</text>
+      <rect x="77" y="158" width="160" height="10" rx="5" fill="#b8d8e8"/>
+      <circle cx="155" cy="96" r="27" fill="#ffcfaa"/>
+      <path d="M128 91 Q128 56 155 54 Q185 57 181 91 Q169 74 155 72 Q141 83 128 91Z" fill="#182b5c"/>
+      <circle cx="146" cy="99" r="4" fill="#182b5c"/><circle cx="164" cy="99" r="4" fill="#182b5c"/>
+      <path d="M131 124 Q155 111 179 124 L185 160 H125Z" fill="url(#shirt)"/>
+      <rect x="112" y="126" width="86" height="50" rx="5" fill="#172b4d"/>
+      <rect class="screen" x="119" y="132" width="72" height="36" rx="3" fill="#7bdff2"/>
+      <path d="M128 143 H164 M128 152 H154" stroke="#2463eb" stroke-width="4"/>
+      <text x="157" y="208" font-size="14" fill="#667085">ship. learn. repeat.</text>
+    </g>
+    <g class="scene">
+      <rect x="312" y="20" width="275" height="220" rx="18" fill="#fff" stroke="#00a6a6" stroke-width="3"/>
+      <text x="449" y="52" font-size="17" font-weight="700" fill="#007a7a">RUNNING</text>
+      <path d="M355 184 Q449 155 543 184" fill="none" stroke="#b8d8e8" stroke-width="7" stroke-linecap="round"/>
+      <g class="runner">
+        <circle cx="448" cy="91" r="25" fill="#ffcfaa"/>
+        <path d="M423 87 Q424 53 451 53 Q477 57 474 87 Q461 71 449 71 Q437 80 423 87Z" fill="#182b5c"/>
+        <circle cx="440" cy="94" r="4" fill="#182b5c"/><circle cx="457" cy="94" r="4" fill="#182b5c"/>
+        <path d="M428 120 Q449 110 470 120 L480 158 451 164 423 154Z" fill="url(#shirt)"/>
+        <path d="M428 126 L395 145 M470 124 L499 105 M445 159 L420 188 M460 158 L490 181" fill="none" stroke="#ffcfaa" stroke-width="12" stroke-linecap="round"/>
+      </g>
+      <path d="M365 112 H395 M353 132 H383 M505 137 H535" stroke="#7bdff2" stroke-width="5" stroke-linecap="round"/>
+      <text x="449" y="208" font-size="14" fill="#667085">fresh ideas, fresh air</text>
+    </g>
+    <g class="scene">
+      <rect x="604" y="20" width="275" height="220" rx="18" fill="#fff" stroke="#7b61c9" stroke-width="3"/>
+      <text x="741" y="52" font-size="17" font-weight="700" fill="#6549a8">SLEEPING</text>
+      <path d="M660 171 Q740 132 820 171 V194 H660Z" fill="#dce6ff"/>
+      <path d="M685 153 Q698 111 741 117 Q775 119 792 153 L780 178 H690Z" fill="#3478ee"/>
+      <circle cx="741" cy="113" r="26" fill="#ffcfaa"/>
+      <path d="M716 110 Q715 78 741 77 Q766 80 766 110 Q754 96 741 96 Q729 103 716 110Z" fill="#182b5c"/>
+      <path d="M728 116 Q734 121 740 116 M748 116 Q754 121 760 116" fill="none" stroke="#182b5c" stroke-width="3"/>
+      <g class="zzz" font-size="18" font-weight="700" fill="#6549a8"><text x="789" y="97">z</text><text x="807" y="76">z</text><text x="824" y="52">z</text></g>
+      <text x="741" y="218" font-size="14" fill="#667085">recharging for tomorrow</text>
+    </g>
+  </g>
+</svg>

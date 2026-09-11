@@ -24,6 +24,8 @@
 </tr>
 </table>
 
+<img src="https://raw.githubusercontent.com/mmbasu-8866/mmbasu-8866/main/assets/profile-activity.svg" alt="Animated character working, running, and sleeping" />
+
 </details>
 
 # mmbasu-8866
