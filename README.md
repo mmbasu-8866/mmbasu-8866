@@ -2,7 +2,29 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f80ed,100:00c6ff&height=180&section=header&text=mmbasu-8866&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Animated profile header" />
 
-<img src="https://raw.githubusercontent.com/mmbasu-8866/mmbasu-8866/main/assets/profile-character.svg" alt="Anime-inspired profile character introducing mmbasu-8866" />
+<details>
+<summary><img src="https://raw.githubusercontent.com/mmbasu-8866/mmbasu-8866/main/assets/profile-avatar.svg" width="92" alt="Click to meet the anime-inspired developer avatar" /></summary>
+
+<table>
+<tr>
+<td width="220" align="center">
+<img src="https://raw.githubusercontent.com/mmbasu-8866/mmbasu-8866/main/assets/profile-avatar.svg" width="180" alt="Anime-inspired developer avatar" />
+</td>
+<td>
+
+<strong>mmbasu-8866:</strong> Hey! I’m a software engineer who enjoys turning ideas into useful products.
+
+<strong>What I build:</strong> Full-stack applications, AI-assisted tools, and practical systems for real users.
+
+<strong>What I’m learning:</strong> System design, cloud deployment, and applied AI.
+
+<strong>Let’s build:</strong> Thoughtful products, student projects, and open-source tools.
+
+</td>
+</tr>
+</table>
+
+</details>
 
 # mmbasu-8866
 

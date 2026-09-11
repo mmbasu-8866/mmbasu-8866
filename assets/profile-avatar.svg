@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">Anime-inspired developer avatar</title>
+  <desc id="desc">An original anime-inspired boy developer avatar with blue hair and a laptop.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eaf4ff"/>
+      <stop offset="1" stop-color="#c7eff0"/>
+    </linearGradient>
+    <linearGradient id="coat" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3478ee"/>
+      <stop offset="1" stop-color="#123b91"/>
+    </linearGradient>
+  </defs>
+  <circle cx="120" cy="120" r="116" fill="url(#bg)" stroke="#2f80ed" stroke-width="6"/>
+  <path d="M55 215 Q62 154 120 145 Q178 154 185 215Z" fill="url(#coat)"/>
+  <path d="M87 157 L120 198 153 157" fill="#fff"/>
+  <path d="M113 170 L120 193 127 170" fill="#ffbf69"/>
+  <path d="M77 103 Q74 48 120 37 Q166 48 163 103 Q151 142 120 145 Q89 142 77 103Z" fill="#ffcfaa"/>
+  <path d="M71 99 Q55 48 96 20 Q143 -8 174 47 Q164 77 150 92 Q144 66 126 55 Q101 79 71 99Z" fill="#182b5c"/>
+  <path d="M77 94 Q61 67 70 45 M151 94 Q169 67 160 45" fill="none" stroke="#3156a6" stroke-width="11" stroke-linecap="round"/>
+  <ellipse cx="103" cy="105" rx="7" ry="10" fill="#182b5c"/>
+  <ellipse cx="137" cy="105" rx="7" ry="10" fill="#182b5c"/>
+  <path d="M109 128 Q120 135 131 128" fill="none" stroke="#c56b68" stroke-width="4" stroke-linecap="round"/>
+  <rect x="73" y="185" width="94" height="42" rx="8" fill="#172b4d"/>
+  <path d="M84 196 H156 M84 207 H142" stroke="#7bdff2" stroke-width="4" stroke-linecap="round"/>
+</svg>
