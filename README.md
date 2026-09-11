@@ -67,7 +67,7 @@ currently_learning = ["System design", "Cloud deployment", "Applied AI"]
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mmbasu-8866/mmbasu-8866/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
+<img src="https://raw.githubusercontent.com/mmbasu-8866/mmbasu-8866/gh-pages/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
 
 <br />
 
